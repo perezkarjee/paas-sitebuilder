@@ -5,8 +5,8 @@
 <?php
 //head
 $title = 'Title';
-include '../includes/header.php';
-include '../includes/menu.php';
+include 'includes/header.php';
+include 'includes/menu.php';
 ?>
 
 <?php

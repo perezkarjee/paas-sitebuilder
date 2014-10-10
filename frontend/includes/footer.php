@@ -73,7 +73,6 @@
 <script src="../js/foundation/foundation.section.js"></script>
 <script src="../js/filoxenia.js"></script>
 <script src="../js/custom.js"></script>
-<script src="../js/demo.js"></script>
 </body>
 </html>
 
