@@ -72,8 +72,8 @@
               <li class="bullet-item"><strong>Custom Domain</strong> + Free Subdomain</li>
               <li class="bullet-item"><strong>Premium</strong> + Free Templates</li>
               <li class="bullet-item"><strong>5000MB</strong> Space</li>
-              <li class="bullet-item"><strong>Fully</strong> Users</li>
-              <li class="bullet-item"><strong>Shopping Cart</strong> Customizable</li>
+              <li class="bullet-item"><strong>Fully</strong> Customizable</li>
+              <li class="bullet-item"><strong>Shopping Cart</strong> No</li>
               <li class="bullet-item">Free Support</li>
               <li class="cta-button"><a class="button" href="signup.php">Sign Up</a></li>
             </ul>
