@@ -13,7 +13,7 @@ include 'includes/menu.php';
 <?php
 //slider
 include 'includes/header2.php';
-include 'sliders/slider-hfome.php';
+include 'sliders/slide-r-home.php';
 ?>
 
 <?php
