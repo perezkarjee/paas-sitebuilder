@@ -52,9 +52,9 @@
         <div class="row">
           <div class="large-4 column">
             <ul class="pricing-table">
-              <li class="title">Basic</li>
-              <li class="price">$9.99 <span>/ month</span></li>
-              <li class="bullet-item"><strong>5GB</strong> Storage</li>
+              <li class="title">Free</li>
+              <li class="price">$0 <span>/ month</span></li>
+              <li class="bullet-item"><strong>1</strong> Website</li>
               <li class="bullet-item"><strong>1</strong> MySQL Database</li>
               <li class="bullet-item"><strong>Unlimited</strong> Bandwidth</li>
               <li class="bullet-item"><strong>1</strong> Free Domain</li>
