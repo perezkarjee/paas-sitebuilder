@@ -41,7 +41,6 @@
       <div class="large-12 column text-center"><a href="features.html" class="button">View Full Features List</a></div>
     </div>
   </section>
-  </section>
   <section class="part">
     <div class="row title">
       <div class="large-12 column">
