@@ -21,8 +21,8 @@
 	<link rel="stylesheet" href="css/font-awesome.min.css" />
 	<link rel="stylesheet" href="css/font-awesome-ie7.min.css" />
 	<link rel="stylesheet" type="text/css" href="css/flexslider.css" />
-	<link rel="stylesheet" href="css/slide-testi.css" />
-			<link rel="stylesheet" href="css/slide.css" /-->
+	<link rel="stylesheet" href="css/slide-testi.css" /-->
+			<link rel="stylesheet" href="css/slide.css" />
 
 
 <script src="js/vendor/custom.modernizr.js"></script>
