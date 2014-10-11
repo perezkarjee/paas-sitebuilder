@@ -57,9 +57,9 @@
               <li class="bullet-item"><strong>1</strong> Website</li>
               <li class="bullet-item"><strong>1</strong> Subdomain</li>
               <li class="bullet-item"><strong>Free</strong> Templates</li>
-              <li class="bullet-item"><strong>1</strong> Free Domain</li>
+              <li class="bullet-item"><strong>500MB</strong> Space</li>
               <li class="bullet-item"><strong>5</strong> Users</li>
-              <li class="bullet-item"><strong>10</strong> Email Accounts</li>
+              <li class="bullet-item"><strong>Shopping Cart</strong> No</li>
               <li class="bullet-item">cPanel &amp; FTP</li>
               <li class="cta-button"><a class="button" href="signup.html">Get Started</a></li>
             </ul>
@@ -71,9 +71,9 @@
               <li class="bullet-item"><strong>3 </strong> Websites</li>
               <li class="bullet-item"><strong>Custom Domain</strong> + Subdomain</li>
               <li class="bullet-item"><strong>Premium</strong> + Free Templates</li>
-              <li class="bullet-item"><strong>3</strong> Free Domains</li>
+              <li class="bullet-item"><strong>3000MB</strong> Space</li>
               <li class="bullet-item"><strong>40</strong> Users</li>
-              <li class="bullet-item"><strong>100</strong> Email Accounts</li>
+              <li class="bullet-item"><strong>Shopping Cart</strong> No</li>
               <li class="bullet-item">cPanel &amp; SFTP</li>
               <li class="cta-button"><a class="button" href="signup.html">Get Started</a></li>
             </ul>
@@ -85,9 +85,24 @@
               <li class="bullet-item"><strong>10</strong> Websites</li>
               <li class="bullet-item"><strong>Custom Domain</strong> + Subdomain</li>
               <li class="bullet-item"><strong>Premium</strong> + Free Templates</li>
-              <li class="bullet-item"><strong>Paypal</strong> Integration</li>
+              <li class="bullet-item"><strong>10000MB</strong> Space</li>
               <li class="bullet-item"><strong>Unlimited</strong> Users</li>
-              <li class="bullet-item"><strong>Unlimited</strong> Email Accounts</li>
+              <li class="bullet-item"><strong>Shopping Cart</strong> Yes</li>
+              <li class="bullet-item">cPanel &amp; SFTP</li>
+              <li class="cta-button"><a class="button" href="signup.html">Get Started</a></li>
+            </ul>
+          </div>
+		  
+		  <div class="large-4 column">
+            <ul class="pricing-table">
+              <li class="title">Ultimate</li>
+              <li class="price">$30 <span>/ month</span></li>
+              <li class="bullet-item"><strong>50</strong> Websites</li>
+              <li class="bullet-item"><strong>Custom Domain</strong> + Subdomain</li>
+              <li class="bullet-item"><strong>Premium</strong> + Free Templates</li>
+              <li class="bullet-item"><strong>Unlimited</strong> Space</li>
+              <li class="bullet-item"><strong>Unlimited</strong> Users</li>
+              <li class="bullet-item"><strong>Shopping Cart</strong> Yes</li>
               <li class="bullet-item">cPanel &amp; SFTP</li>
               <li class="cta-button"><a class="button" href="signup.html">Get Started</a></li>
             </ul>
