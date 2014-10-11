@@ -92,9 +92,8 @@
               <li class="cta-button"><a class="button" href="signup.html">Get Started</a></li>
             </ul>
           </div>
-		  
-		  <div class="large-4 column">
-            <ul class="pricing-table">
+			<div class="large-4 column">
+             <ul class="pricing-table">
               <li class="title">Ultimate</li>
               <li class="price">$30 <span>/ month</span></li>
               <li class="bullet-item"><strong>50</strong> Websites</li>
