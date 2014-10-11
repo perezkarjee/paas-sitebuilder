@@ -14,7 +14,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="css/main.css">
 <link rel="stylesheet" href="css/magnific-popup.css">
-<script src="../js/vendor/custom.modernizr.js"></script>
+<script src="js/vendor/custom.modernizr.js"></script>
 </head>
 
 <?php

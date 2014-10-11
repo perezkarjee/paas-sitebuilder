@@ -8,7 +8,7 @@
     <div class="large-12 column">
       <nav id="menu" class="top-bar">
         <ul class="title-area">
-          <li class="name"><a href="index-2.html"><img src="../images/logo.png" alt="logo"></a></li>
+          <li class="name"><a href="index-2.html"><img src="images/logo.png" alt="logo"></a></li>
           <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
         </ul>
         <section class="top-bar-section">

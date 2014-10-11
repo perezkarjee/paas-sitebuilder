@@ -8,11 +8,11 @@
       <h4>About us</h4>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.</p>
       <ul class="large-block-grid-5 popup">
-        <li><a href="../images/demo/person1.jpg"><img src="../images/demo/person1_s.jpg" alt=""></a></li>
-        <li><a href="../images/demo/person2.jpg"><img src="../images/demo/person2_s.jpg" alt=""></a></li>
-        <li><a href="../images/demo/person3.jpg"><img src="../images/demo/person3_s.jpg" alt=""></a></li>
-        <li><a href="../images/demo/person4.jpg"><img src="../images/demo/person4_s.jpg" alt=""></a></li>
-        <li><a href="../images/demo/person5.jpg"><img src="../images/demo/person5_s.jpg" alt=""></a></li>
+        <li><a href="images/demo/person1.jpg"><img src="images/demo/person1_s.jpg" alt=""></a></li>
+        <li><a href="images/demo/person2.jpg"><img src="images/demo/person2_s.jpg" alt=""></a></li>
+        <li><a href="images/demo/person3.jpg"><img src="images/demo/person3_s.jpg" alt=""></a></li>
+        <li><a href="images/demo/person4.jpg"><img src="images/demo/person4_s.jpg" alt=""></a></li>
+        <li><a href="images/demo/person5.jpg"><img src="images/demo/person5_s.jpg" alt=""></a></li>
       </ul>
     </div>
     <div class="large-2 column">
@@ -66,13 +66,13 @@
     <p class="small-12 large-8 column social"><a href="mailto:info@filoxenia.com"><i class="icon-envelope"></i></a> <a href="#"><i class="icon-rss"></i></a> <a href="http://www.facebook.com/" target="_blank"><i class="icon-facebook"></i></a> <a href="http://www.twitter.com/" target="_blank"><i class="icon-twitter"></i></a> <a href="http://www.google.com/plus" target="_blank"><i class="icon-google-plus"></i></a> <a href="http://www.linkedin.com/" target="_blank"><i class="icon-linkedin"></i></a> <a href="skype:echo123?call" target="_blank"><i class="icon-skype"></i></a></p>
   </div>
 </footer>
-<script src="../js/vendor/jquery.js"></script>
-<script src="../js/vendor/jquery.magnific-popup.js"></script>
-<script src="../js/foundation/foundation.js"></script>
-<script src="../js/foundation/foundation.topbar.js"></script>
-<script src="../js/foundation/foundation.section.js"></script>
-<script src="../js/filoxenia.js"></script>
-<script src="../js/custom.js"></script>
+<script src="js/vendor/jquery.js"></script>
+<script src="js/vendor/jquery.magnific-popup.js"></script>
+<script src="js/foundation/foundation.js"></script>
+<script src="js/foundation/foundation.topbar.js"></script>
+<script src="js/foundation/foundation.section.js"></script>
+<script src="js/filoxenia.js"></script>
+<script src="js/custom.js"></script>
 </body>
 </html>
 
