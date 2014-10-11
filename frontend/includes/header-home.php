@@ -31,6 +31,24 @@
 	<script type="text/javascript" src="js/webfont.js"></script>
 	<script type="text/javascript" src="js/jquery.sequence-min.js"></script>
 	<script type="text/javascript" src="js/jquery.flexslider-min.js"></script>
+	
+	
+	<!--for slider -->
+	<script type="text/javascript"> 
+	    $(document).ready(function(){
+		    var options = {
+		        nextButton: true,
+		        prevButton: true,
+		        pagination: true,
+		        animateStartingFrameIn: true,
+		        autoPlay: true,
+		        autoPlayDelay: 2000,
+		    };
+		    
+		    var mySequence = $("#sequence").sequence(options).data("sequence");
+		});
+	</script>
+	<!-- end for slider -->
 </head>
 
 <?php
