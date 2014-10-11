@@ -18,6 +18,8 @@
 <link rel="stylesheet" href="css/main.css">
 <link rel="stylesheet" href="css/magnific-popup.css">
 
+	<link rel="stylesheet" href="css/bootstrap.css" />
+	<link rel="stylesheet" href="css/bootstrap-responsive.css" />
 	<link rel="stylesheet" href="css/font-awesome.min.css" />
 	<link rel="stylesheet" href="css/font-awesome-ie7.min.css" />
 	<link rel="stylesheet" type="text/css" href="css/flexslider.css" />
