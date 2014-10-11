@@ -10,8 +10,13 @@ include 'includes/menu.php';
 ?>
 
 <?php
+//slider
+include 'slider/slider-home.php';
+?>
+
+<?php
 //container
-include 'containers/container.php';
+include 'containers/container-home.php';
 ?>
 
 <?php

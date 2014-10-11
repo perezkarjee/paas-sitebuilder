@@ -4,16 +4,6 @@
 
 
 <section id="main" role="main">
-  <section id="hero">
-    <div class="row">
-      <div class="large-10 large-centered column text-center">
-        <div id="hero-message" class="fadeInDown animated">
-          <h1>Powerful Hosting Solution</h1>
-          <h4>The more affordable approach to stable web hosting solutions. Inexpensive, reliable, and feature-rich!</h4>
-          <a href="signup.html" class="button">SIGN UP FOR A PLAN</a></div>
-      </div>
-    </div>
-  </section>
   <section class="part">
     <div class="row title">
       <div class="large-12 column">
@@ -116,12 +106,12 @@
     <div class="row">
       <div class="large-12 column">
         <ul class="large-block-grid-6 customers">
-          <li><a href="http://www.themeforest.net/" target="_blank"><img src="../images/demo/customer1.jpg" alt=""></a></li>
-          <li><a href="http://www.codecanyon.net/" target="_blank"><img src="../images/demo/customer2.jpg" alt=""></a></li>
-          <li><a href="http://www.videohive.net/" target="_blank"><img src="../images/demo/customer3.jpg" alt=""></a></li>
-          <li><a href="http://www.graphicriver.net/" target="_blank"><img src="../images/demo/customer4.jpg" alt=""></a></li>
-          <li><a href="http://www.themeforest.net/" target="_blank"><img src="../images/demo/customer5.jpg" alt=""></a></li>
-          <li><a href="http://www.codecanyon.net/" target="_blank"><img src="../images/demo/customer6.jpg" alt=""></a></li>
+          <li><a href="http://www.themeforest.net/" target="_blank"><img src="images/demo/customer1.jpg" alt=""></a></li>
+          <li><a href="http://www.codecanyon.net/" target="_blank"><img src="images/demo/customer2.jpg" alt=""></a></li>
+          <li><a href="http://www.videohive.net/" target="_blank"><img src="images/demo/customer3.jpg" alt=""></a></li>
+          <li><a href="http://www.graphicriver.net/" target="_blank"><img src="images/demo/customer4.jpg" alt=""></a></li>
+          <li><a href="http://www.themeforest.net/" target="_blank"><img src="images/demo/customer5.jpg" alt=""></a></li>
+          <li><a href="http://www.codecanyon.net/" target="_blank"><img src="images/demo/customer6.jpg" alt=""></a></li>
         </ul>
       </div>
     </div>
