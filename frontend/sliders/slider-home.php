@@ -1,7 +1,7 @@
 <?php
 //start
 ?>
-
+<section id="main" role="main">
 <div class="slider-wrapper">
 			<div id="sequence">
 
