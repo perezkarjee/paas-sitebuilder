@@ -1,5 +1,5 @@
 <?php
-//frontend start
+//frontend home start
 ?>
 
 <?php
