@@ -69,8 +69,8 @@
               <li class="title">Premium</li>
               <li class="price">$3 <span>/ month</span></li>
               <li class="bullet-item"><strong>3 </strong> Websites</li>
-              <li class="bullet-item"><strong>Subdomain</strong> + Custom Domain</li>
-              <li class="bullet-item"><strong>Free</strong> + Premium Templates</li>
+              <li class="bullet-item"><strong>Custom Domain</strong> + Subdomain</li>
+              <li class="bullet-item"><strong>Premium</strong> + Free Templates</li>
               <li class="bullet-item"><strong>3</strong> Free Domains</li>
               <li class="bullet-item"><strong>40</strong> Users</li>
               <li class="bullet-item"><strong>100</strong> Email Accounts</li>
@@ -83,8 +83,8 @@
               <li class="title">Professional</li>
               <li class="price">$5 <span>/ month</span></li>
               <li class="bullet-item"><strong>10</strong> Websites</li>
-              <li class="bullet-item"><strong>Subdomain</strong> + Custom Domain</li>
-              <li class="bullet-item"><strong>Free</strong> + Premium Templates</li>
+              <li class="bullet-item"><strong>Custom Domain</strong> + Subdomain</li>
+              <li class="bullet-item"><strong>Premium</strong> + Free Templates</li>
               <li class="bullet-item"><strong>Paypal</strong> Integration</li>
               <li class="bullet-item"><strong>Unlimited</strong> Users</li>
               <li class="bullet-item"><strong>Unlimited</strong> Email Accounts</li>
