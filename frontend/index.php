@@ -13,13 +13,13 @@ include 'includes/menu.php';
 <?php
 //slider
 include 'includes/header2.php';
-include 'sliders/slider-home.php';
+include 'sliders/slider-hfome.php';
 ?>
 
 <?php
 //container
 include 'containers/container-home.php';
-include 'containers/container-testimonial.php';
+include 'containers/container-tfestimonial.php';
 ?>
 
 <?php
