@@ -27,6 +27,7 @@
 
 <script src="js/vendor/custom.modernizr.js"></script>
 <script type="text/javascript" src="js/jquery-1.8.2.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="js/webfont.js"></script>
 	<script type="text/javascript" src="js/jquery.sequence-min.js"></script>
 	<script type="text/javascript" src="js/jquery.flexslider-min.js"></script>
