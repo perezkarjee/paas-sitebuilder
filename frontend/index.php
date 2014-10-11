@@ -12,7 +12,7 @@ include 'includes/menu.php';
 
 <?php
 //slider
-include 'includes/header2.php';
+include 'includes/header-2.php';
 include 'sliders/slider-home.php';
 ?>
 
