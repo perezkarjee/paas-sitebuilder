@@ -11,30 +11,30 @@
     </div>
     <div class="row features spacy">
       <div class="large-4 column">
-        <h4><i class="icon-cog"></i> Powerful cPanel</h4>
-        <p>Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits.</p>
+        <h4><i class="icon-cog"></i> Easy Sitebuilder </h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
       </div>
       <div class="large-4 column">
         <h4><i class="icon-time"></i> 99.99% Uptime</h4>
-        <p>Efficiently unleash cross-media information without cross-media value. Quickly maximize timely deliverables for real-time schemas.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
       </div>
       <div class="large-4 column">
         <h4><i class="icon-cloud"></i> Constant Backups</h4>
-        <p>Completely synergize resource sucking relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
       </div>
     </div>
     <div class="row features spacy">
       <div class="large-4 column">
         <h4 class="no-top-margin"><i class="icon-archive"></i> 1-Click Installs</h4>
-        <p>Objectively innovate empowered manufactured products whereas parallel platforms. Holisticly predominate extensible testing procedures for reliable supply chains.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
       </div>
       <div class="large-4 column">
-        <h4 class="no-top-margin"><i class="icon-lock"></i> Online security</h4>
-        <p>Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing.</p>
+        <h4 class="no-top-margin"><i class="icon-lock"></i> secure Environment</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
       </div>
       <div class="large-4 column">
         <h4 class="no-top-margin"><i class="icon-comments"></i> 24/7 Support</h4>
-        <p>Phosfluorescently engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric "outside the box" thinking.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
       </div>
     </div>
     <div class="row">
@@ -66,7 +66,7 @@
           </div>
           <div class="large-4 column">
             <ul class="pricing-table highlight">
-              <li class="title">Business</li>
+              <li class="title">Premium</li>
               <li class="price">$3 <span>/ month</span></li>
               <li class="bullet-item"><strong>3 </strong> Websites</li>
               <li class="bullet-item"><strong>Subdomain</strong> + Custom Domain</li>
