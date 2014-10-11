@@ -11,7 +11,7 @@ include 'includes/menu.php';
 
 <?php
 //slider
-include 'slider/slider-home.php';
+include 'sliders/slider-home.php';
 ?>
 
 <?php
