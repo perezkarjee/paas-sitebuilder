@@ -65,7 +65,7 @@
     </div>
   </div>
   <div class="row">
-    <p class="small-12 large-4 large-uncentered column copyright">Copyright &copy; 2013 Filoxenia.</p>
+    <p class="small-12 large-4 large-uncentered column copyright">Copyright &copy; site.</p>
     <p class="small-12 large-8 column social"><a href="mailto:info@filoxenia.com"><i class="icon-envelope"></i></a> 
 	<a href="#"><i class="icon-rss"></i></a> 
 	<a href="<?php echo $facebook;?>" target="_blank"><i class="icon-facebook"></i></a> 
