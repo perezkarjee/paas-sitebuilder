@@ -11,7 +11,7 @@ include 'includes/menu.php';
 
 <?php
 //container
-include '../static/container-.php';
+include 'containers/container.php';
 ?>
 
 <?php
