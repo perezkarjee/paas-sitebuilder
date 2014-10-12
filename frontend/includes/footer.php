@@ -75,6 +75,8 @@ dependency--- add dependency here
 	<a href="<?php echo $twitter;?>" target="_blank"><i class="icon-twitter"></i></a> 
 	<a href="<?php echo $googleplus;?>" target="_blank"><i class="icon-google-plus"></i></a> 
 	<a href="<?php echo $youtube;?>" target="_blank"><i class="icon-youtube"></i></a> 
+	<a href="<?php echo $youtube;?>" target="_blank"><i class="icon-youtube"></i></a> 
+	<a href="<?php echo $youtube;?>" target="_blank"><i class="icon-youtube"></i></a> 
   </div>
 </footer>
 <script src="js/vendor/jquery.js"></script>
