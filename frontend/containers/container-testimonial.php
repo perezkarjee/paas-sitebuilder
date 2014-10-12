@@ -42,7 +42,7 @@
 
 								</blockquote>
 
-								<a href="#"><img src="img/face1.png" alt=""></a>
+								<a href="#"><img src="images/face1.png" alt=""></a>
 
 								<a href="#">John Doe</a>
 
@@ -64,7 +64,7 @@
 
 								</blockquote>
 
-								<a href="#"><img src="img/face1.png" alt=""></a>
+								<a href="#"><img src="images/face1.png" alt=""></a>
 
 								<a href="#">John Doe</a>
 
