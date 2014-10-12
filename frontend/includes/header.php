@@ -7,18 +7,16 @@
 <!--[if gt IE 8]><!--><html class="no-js"><!--<![endif]-->
 
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8">
 <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
 <title><?php echo $title; ?></title>
-
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="css/main.css">
 <link rel="stylesheet" href="css/magnific-popup.css">
-
 <script src="js/vendor/custom.modernizr.js"></script>
 </head>
+
 
 <?php
 //header end

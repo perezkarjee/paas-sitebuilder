@@ -13,12 +13,12 @@
         </ul>
         <section class="top-bar-section">
           <ul class="right">
-            <li><a href="plans.html">Home</a></li>
-            <li><a href="features.html">System</a></li>
-            <li><a href="about.html">About</a></li>
-            <li><a href="support.html">Contact</a></li>
-            <li><a href="login.html">Login</a></li>
-            <li id="signup"><a href="signup.php" class="button no-margin">SIGN UP</a></li>
+            <li><a href="plans.html">PLANS &amp; PRICING</a></li>
+            <li><a href="features.html">FEATURES</a></li>
+            <li><a href="about.html">ABOUT</a></li>
+            <li><a href="support.html">SUPPORT</a></li>
+            <li><a href="login.html">LOG IN</a></li>
+            <li id="signup"><a href="signup.html" class="button no-margin">SIGN UP</a></li>
           </ul>
         </section>
       </nav>
