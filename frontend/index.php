@@ -18,7 +18,6 @@ include 'sliders/home.php';
 <?php
 //container
 include 'containers/container-home.php';
-include 'containers/container-testimonial.php';
 ?>
 
 <?php
