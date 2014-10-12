@@ -45,7 +45,7 @@
 
 								<h2>What our customer say </h2>
 
-								<blockquote class="testi">
+								<blockquote>
 
 									<p style="font-size:0.9em;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque faucibus risus non iaculis. <br>Fusce a augue ante, pellentesque pretium erat. Fusce in turpis in velit tempor pretium. Integer a leo libero.</p>
 
