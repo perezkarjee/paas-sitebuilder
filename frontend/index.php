@@ -22,5 +22,5 @@ include 'containers/container-home.php';
 
 <?php
 //foot
-include 'includes/footer-.php';
+include 'includes/footer.php';
 ?>
