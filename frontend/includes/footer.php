@@ -1,5 +1,10 @@
 <?php
 //footer start
+
+/*
+dependency--- includes/external-links.php
+dependency--- add dependency here
+*/
 ?>
 
 <footer>
@@ -19,14 +24,14 @@
       </ul>
     </div>
     <div class="large-2 column">
-      <h4>Services</h4>
+      <h4>Useful Links</h4>
       <ul class="side-nav">
-        <li><a href="plans.html#shared">Shared Hosting</a></li>
-        <li><a href="plans.html#dedicated">Dedicated Servers</a></li>
-        <li><a href="<?php echo $blog;?>">Our Blog</a></li>
-        <li><a href="abterms404.html">Terms of Service</a></li>
-        <li><a href="privacy.php">Privacy Policy</a></li>
-        <li><a href="contact.php">Contact us</a></li>
+        <li><a href="terms.php">Terms & Conditions</a></li>
+        <li><a href="<?php echo $forum;?>">Forum</a></li>
+        <li><a href="<?php echo $blog;?>">Blog</a></li>
+        <li><a href="status.php">System Status</a></li>
+        <li><a href="signup.php">Signup</a></li>
+        <li><a href="login">Login</a></li>
       </ul>
     </div>
     <div class="large-4 column">
@@ -53,8 +58,8 @@
           <h6>Email:</h6>
         </div>
         <div class="small-9 column text">
-          <p><a href="mailto:info@mail.com">info@mail.com</a><br>
-            <a href="mailto:support@mail.com">support@mail.com</a></p>
+          <p><a href="mailto:<?php echo $email_footer_a;?>"><?php echo $email_footer_a;?></a><br>
+            <a href="mailto:<?php echo $email_footer_b;?>"><?php echo $email_footer_b;?></a></p>
         </div>
       </div>
     </div>
@@ -66,8 +71,6 @@
   </div>
   <div class="row">
     <p class="small-12 large-4 large-uncentered column copyright">Copyright &copy; site.</p>
-    <p class="small-12 large-8 column social"><a href="mailto:info@filoxenia.com"><i class="icon-envelope"></i></a> 
-	<a href="#"><i class="icon-rss"></i></a> 
 	<a href="<?php echo $facebook;?>" target="_blank"><i class="icon-facebook"></i></a> 
 	<a href="<?php echo $twitter;?>" target="_blank"><i class="icon-twitter"></i></a> 
 	<a href="<?php echo $googleplus;?>" target="_blank"><i class="icon-google-plus"></i></a> 

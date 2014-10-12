@@ -1,5 +1,14 @@
 <?php
 //frontend home start
+
+/*dependency--- includes/external-links.php
+dependency--- includes/header.php
+dependency--- includes/menu.php
+dependency--- sliders/home.php
+dependency--- containers/container-home.php
+dependency--- includes/footer.php
+dependency--- add dependency here
+*/
 ?>
 
 <?php

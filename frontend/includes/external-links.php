@@ -13,6 +13,9 @@ $twitter ='http://www.';
 $googleplus ='http://www.';
 $youtube ='http://www.';
 
+$email_footer_a ='mail@email.com';
+$email_footer_b ='mail@email.com';
+
 //other
 $link ='http://www.';
 $link2 ='http://www.';
