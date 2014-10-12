@@ -16,13 +16,7 @@
 <link rel="stylesheet" href="css/main.css">
 <link rel="stylesheet" href="css/magnific-popup.css">
 
-<script src="js/vendor/jquery.js"></script>
-<script src="js/vendor/jquery.magnific-popup.js"></script>
-<script src="js/foundation/foundation.js"></script>
-<script src="js/foundation/foundation.topbar.js"></script>
-<script src="js/foundation/foundation.section.js"></script>
-<script src="js/filoxenia.js"></script>
-<script src="js/custom.js"></script>
+
 
 <script src="js/vendor/custom.modernizr.js"></script>
 </head>
