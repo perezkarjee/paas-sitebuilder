@@ -8,9 +8,9 @@
     <div class="row">
       <div class="large-10 large-centered column text-center">
         <div id="hero-message" class="fadeInDown animated">
-          <h1>Powerful Hosting Solution</h1>
-          <h4>The more affordable approach to stable web hosting solutions. Inexpensive, reliable, and feature-rich!</h4>
-          <a href="signup.html" class="button">SIGN UP FOR A PLAN</a></div>
+          <h1>Easy To Use</h1>
+          <h4>Affordable Plans, Easy To Use, reliable, and feature-rich!</h4>
+          <a href="signup.php" class="button">SIGN UP NOW</a></div>
       </div>
     </div>
   </section>
