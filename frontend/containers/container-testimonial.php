@@ -34,11 +34,11 @@
 
 							<div class="container">
 
-								<h2>What our customer say </h2>
+								<h2 class="testi-2">What our customer say </h2>
 
 								<blockquote class="testi">
 
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque faucibus risus non iaculis. Fusce a augue ante, pellentesque pretium erat. Fusce in turpis in velit tempor pretium. Integer a leo libero.</p>
+									<p class="testi-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque faucibus risus non iaculis. Fusce a augue ante, pellentesque pretium erat. Fusce in turpis in velit tempor pretium. Integer a leo libero.</p>
 
 								</blockquote>
 
@@ -46,7 +46,7 @@
 
 								<a href="#">John Doe</a>
 
-								<span>Deverloper at Lorem ipsum</span>
+								<span>Deverloper at pixelgeeklab</span>
 
 							</div>
 
@@ -56,46 +56,23 @@
 
 							<div class="container">
 
-								<h2>What our customer say </h2>
+								<h2 class="testi-2">What our customer say </h2>
 
 								<blockquote class="testi">
 
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque faucibus risus non iaculis. Fusce a augue ante, pellentesque pretium erat. Fusce in turpis in velit tempor pretium. Integer a leo libero.</p>
+									<p class="testi-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque faucibus risus non iaculis. Fusce a augue ante, pellentesque pretium erat. Fusce in turpis in velit tempor pretium. Integer a leo libero.</p>
 
 								</blockquote>
 
-								<a href="#"><img src="img/face2.png" alt=""></a>
+								<a href="#"><img src="img/face1.png" alt=""></a>
 
 								<a href="#">John Doe</a>
 
-								<span>Deverloper at Lorem ipsum</span>
+								<span>Deverloper at pixelgeeklab</span>
 
 							</div>
 
 						</li>
-						
-						<li>
-
-							<div class="container">
-
-								<h2>What our customer say </h2>
-
-								<blockquote class="testi">
-
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque faucibus risus non iaculis. Fusce a augue ante, pellentesque pretium erat. Fusce in turpis in velit tempor pretium. Integer a leo libero.</p>
-
-								</blockquote>
-
-								<a href="#"><img src="img/face2.png" alt=""></a>
-
-								<a href="#">John Doe 2</a>
-
-								<span>Deverloper at Lorem ipsum</span>
-
-							</div>
-
-						</li>
-
 
 					</ul>
 
