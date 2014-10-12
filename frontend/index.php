@@ -12,14 +12,14 @@ include 'includes/menu.php';
 
 <?php
 //slider
-include 'includes/header-homfe.php';
+include 'includes/header-home.php';
 include 'sliders/slider-home.php';
 ?>
 
 <?php
 //container
 include 'containers/container-home.php';
-include 'containers/container-tfestimonial.php';
+include 'containers/container-testimonial.php';
 ?>
 
 <?php
