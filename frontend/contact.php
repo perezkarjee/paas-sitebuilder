@@ -5,8 +5,7 @@
 dependency--- includes/external-links.php
 dependency--- includes/header.php
 dependency--- includes/menu.php
-dependency--- sliders/home.php
-dependency--- containers/container-home.php
+dependency--- containers/container-contact.php
 dependency--- includes/footer.php
 dependency--- add dependency here
 */
@@ -21,13 +20,8 @@ include 'includes/menu.php';
 ?>
 
 <?php
-//slider
-include 'sliders/home.php';
-?>
-
-<?php
 //container
-include 'containers/container-home.php';
+include 'containers/container-contact.php';
 ?>
 
 <?php
