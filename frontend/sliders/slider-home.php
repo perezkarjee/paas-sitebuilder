@@ -4,6 +4,8 @@
 <head>
 
 <link rel="stylesheet" href="css/slide.css" />
+<link rel="stylesheet" href="css/bootstrap.css" />
+	<link rel="stylesheet" href="css/bootstrap-responsive.css" />
 	<link rel="stylesheet" href="css/font-awesome.min.css" />
 	<link rel="stylesheet" href="css/font-awesome-ie7.min.css" />
 	<link rel="stylesheet" href="css/slider.css" />
