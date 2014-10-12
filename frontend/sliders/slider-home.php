@@ -16,6 +16,7 @@
 	<script type="text/javascript" src="js/jquery.sequence-min.js"></script>
 
 </head>
+<body>
 <script type="text/javascript"> 
 	    $(document).ready(function(){
 		    var options = {
@@ -50,6 +51,7 @@
 
 			</div>
 		</div>
+		</body>
 <?php
 //end
 ?>
