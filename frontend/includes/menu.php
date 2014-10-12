@@ -14,7 +14,7 @@
         <section class="top-bar-section">
           <ul class="right">
             <li><a href="plans.html">Home</a></li>
-            <li><a href="features.html">Solutions</a></li>
+            <li><a href="features.html">System</a></li>
             <li><a href="about.html">About</a></li>
             <li><a href="support.html">Contact</a></li>
             <li><a href="login.html">Login</a></li>
