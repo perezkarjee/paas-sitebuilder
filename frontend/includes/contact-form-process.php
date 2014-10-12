@@ -1,11 +1,5 @@
 <?PHP
 
-/*
-dependency--- external-links.php
-dependency--- add dependency here
-*/
-
-
 define('kOptional', true);
 define('kMandatory', false);
 
@@ -116,9 +110,4 @@ echo $successPage;
 
 }
 
-
-
-include 'external-links.php';
 ?>
-
-<meta http-equiv="refresh" content="2;url=<?php /*redirect to homepage*/ echo $homeurl;?>" />	
