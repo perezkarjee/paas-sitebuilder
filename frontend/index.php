@@ -7,12 +7,12 @@
 $title = 'Title';
 include 'includes/external-links.php';
 include 'includes/header-home.php';
-include 'includes/menu.php';
+include 'includes/-menu.php';
 ?>
 
 <?php
 //slider
-include 'includes/header-home.php';
+include 'includes/heade-r-home.php';
 include 'sliders/slider-home.php';
 ?>
 
