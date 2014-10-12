@@ -9,9 +9,6 @@ dependency--- add dependency here
 ?>
 
 
-<!-- AJAX FORM -->
-<script src="css/contact.js"></script>
-
 <section id="main" role="main">
   <div class="breadcrumb-container">
     <div class="row">
@@ -55,9 +52,6 @@ dependency--- add dependency here
             </div>
           </div>
           <div class="row">
-		  <div class="large-12 column">
-              <input type="submit" name="submit">
-            </div>
             <div class="large-12 column">
               <button>Send Message</button>
             </div>

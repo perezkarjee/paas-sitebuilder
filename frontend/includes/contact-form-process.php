@@ -1,5 +1,11 @@
 <?PHP
 
+/*
+dependency--- external-links.php
+dependency--- add dependency here
+*/
+
+
 define('kOptional', true);
 define('kMandatory', false);
 
@@ -110,4 +116,9 @@ echo $successPage;
 
 }
 
+
+//redirect back
+$redirect_back = $_SERVER['HTTP_REFERER'];
 ?>
+
+<meta http-equiv="refresh" content="3;url=<?php echo $redirect_back;?>" />	
