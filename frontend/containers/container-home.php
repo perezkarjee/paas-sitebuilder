@@ -1,5 +1,5 @@
 <?php
-//container start 
+//container home start 
 ?>
 
 
@@ -25,7 +25,7 @@
     </div>
     <div class="row features spacy">
       <div class="large-4 column">
-        <h4 class="no-top-margin"><i class="icon-dashboard"></i> Fast Loading Websites</h4>
+        <h4 class="no-top-margin"><i class="icon-dashboard"></i> Faster Websites</h4>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
       </div>
       <div class="large-4 column">
@@ -38,7 +38,7 @@
       </div>
     </div>
     <div class="row">
-      <div class="large-12 column text-center"><a href="features.html" class="button">View Full Features List</a></div>
+      <div class="large-12 column text-center"><a href="features.php" class="button">View Full Features List</a></div>
     </div>
   </section>
   <section class="part">
@@ -95,28 +95,9 @@
       </div>
     </div>
   </section>
-  <section class="part">
-    <div class="row title">
-      <div class="large-12 column">
-        <h6>Our Happy Customers</h6>
-      </div>
-    </div>
-    <div class="row">
-      <div class="large-12 column">
-        <ul class="large-block-grid-6 customers">
-          <li><a href="http://www.themeforest.net/" target="_blank"><img src="images/demo/customer1.jpg" alt=""></a></li>
-          <li><a href="http://www.codecanyon.net/" target="_blank"><img src="images/demo/customer2.jpg" alt=""></a></li>
-          <li><a href="http://www.videohive.net/" target="_blank"><img src="images/demo/customer3.jpg" alt=""></a></li>
-          <li><a href="http://www.graphicriver.net/" target="_blank"><img src="images/demo/customer4.jpg" alt=""></a></li>
-          <li><a href="http://www.themeforest.net/" target="_blank"><img src="images/demo/customer5.jpg" alt=""></a></li>
-          <li><a href="http://www.codecanyon.net/" target="_blank"><img src="images/demo/customer6.jpg" alt=""></a></li>
-        </ul>
-      </div>
-    </div>
-  </section>
 </section>
 <a id="back-top" href="#"><i class="icon-caret-up"></i></a>
 
 <?php
-//container end
+//container home end
 ?>
