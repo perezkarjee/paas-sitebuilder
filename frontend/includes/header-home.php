@@ -21,32 +21,14 @@
 	<link rel="stylesheet" href="css/font-awesome.min.css" />
 	<link rel="stylesheet" href="css/font-awesome-ie7.min.css" />
 	<link rel="stylesheet" type="text/css" href="css/flexslider.css" />
-	<link rel="stylesheet" href="css/testimonial.css" /-->
+	<link rel="stylesheet" href="css/testimonial.css" />
 
 
-<script src="js/vendor/custom.modernizr.js"></script>
+<!--script src="js/vendor/custom.modernizr.js"></script-->
 <script type="text/javascript" src="js/jquery-1.8.2.min.js"></script>
+	<script type="text/javascript" src="js/jquery-1.8.2.min.js"></script>
 	<script type="text/javascript" src="js/webfont.js"></script>
-	<script type="text/javascript" src="js/jquery.sequence-min.js"></script>
 	<script type="text/javascript" src="js/jquery.flexslider-min.js"></script>
-	
-	
-	<!--for slider -->
-	<script type="text/javascript"> 
-	    $(document).ready(function(){
-		    var options = {
-		        nextButton: true,
-		        prevButton: true,
-		        pagination: true,
-		        animateStartingFrameIn: true,
-		        autoPlay: true,
-		        autoPlayDelay: 2000,
-		    };
-		    
-		    var mySequence = $("#sequence").sequence(options).data("sequence");
-		});
-	</script>
-	<!-- end for slider -->
 </head>
 
 <?php
