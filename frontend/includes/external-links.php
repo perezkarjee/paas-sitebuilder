@@ -3,6 +3,7 @@
 
 
 //core
+$homeurl ='http://www.';
 $blog ='http://www.';
 $forum ='http://www.';
 $tutorials ='http://www.';

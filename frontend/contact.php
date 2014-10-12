@@ -13,7 +13,7 @@ dependency--- add dependency here
 
 <?php
 //head
-$title = 'Title';
+$title = 'Contact';
 include 'includes/external-links.php';
 include 'includes/header.php';
 include 'includes/menu.php';
