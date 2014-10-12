@@ -45,11 +45,12 @@
 
 								<h2>What our customer say </h2>
 
-								<blockquote>
 
-									<p style="font-size:0.9em;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque faucibus risus non iaculis. <br>Fusce a augue ante, pellentesque pretium erat. Fusce in turpis in velit tempor pretium. Integer a leo libero.</p>
 
-								</blockquote>
+									<p style="font-size:0.9em;">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque faucibus risus non iaculis. 
+									<br>Fusce a augue ante, pellentesque pretium erat. Fusce in turpis in velit tempor pretium. Integer a leo libero."</p>
+
+
 
 								<a href="#"><img src="images/face1.png" alt=""></a>
 
@@ -70,7 +71,7 @@
 								<blockquote class="testi">
 
 									<p class="testi-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-									<br>Nam scelerisque faucibus risus non iaculis. Fusce a augue ante, pellentesque pretium erat. Fusce in turpis in velit tempor pretium. Integer a leo libero.</p>
+									<>Nam scelerisque faucibus risus non iaculis. Fusce a augue ante, pellentesque pretium erat. Fusce in turpis in velit tempor pretium. Integer a leo libero.</p>
 
 								</blockquote>
 
