@@ -7,7 +7,6 @@
 
 	<link rel="stylesheet" href="css/font-awesome.min.css" />
 	<link rel="stylesheet" href="css/font-awesome-ie7.min.css" />
-	<link rel="stylesheet" href="css/slidfer.css" />
 
 
 	<script src="js/jquery-1.8.2.min.js"></script>
