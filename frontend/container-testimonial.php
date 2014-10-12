@@ -25,7 +25,7 @@
 <?php
 //start
 ?>
-
+<body>
 <div class="home-testi">
 
 			<script type="text/javascript">
@@ -119,7 +119,7 @@
 				</div>
 
 		</div>
-		
+		</body>
 <?php
 //end
 ?>
