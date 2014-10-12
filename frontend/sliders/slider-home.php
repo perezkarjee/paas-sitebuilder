@@ -3,18 +3,18 @@
 ?>
 <head>
 
-<link rel="stylesheet" href="../css/slide.css" />
-<link rel="stylesheet" href="../css/bootstrap.css" />
-	<link rel="stylesheet" href="../css/bootstrap-responsive.css" />
-	<link rel="stylesheet" href="../css/font-awesome.min.css" />
-	<link rel="stylesheet" href="../css/font-awesome-ie7.min.css" />
-	<link rel="stylesheet" href="../css/slider.css" />
+<link rel="stylesheet" href="css/slide.css" />
+<link rel="stylesheet" href="css/bootstrap.css" />
+	<link rel="stylesheet" href="css/bootstrap-responsive.css" />
+	<link rel="stylesheet" href="css/font-awesome.min.css" />
+	<link rel="stylesheet" href="css/font-awesome-ie7.min.css" />
+	<link rel="stylesheet" href="css/slider.css" />
 
 
-	<script src="../js/jquery-1.8.2.min.js"></script>
-	<script type="text/javascript" src="../js/bootstrap.min.js"></script>
-	<script type="text/javascript" src="../js/webfont.js"></script>
-	<script type="text/javascript" src="../js/jquery.sequence-min.js"></script>
+	<script src="js/jquery-1.8.2.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="js/webfont.js"></script>
+	<script type="text/javascript" src="js/jquery.sequence-min.js"></script>
 
 </head>
 <body>
@@ -40,13 +40,14 @@
 
 				<ul class="sequence-canvas">
 					<li class="animate-in">
-						<img class="model" src="../images/slide/1.jpg" alt="slide 1" />
+						<img class="model" src="images/slide/1.jpg" alt="slide 1" />
 					</li>
 					<li>
-						<img class="model" src="../images/slide/2.jpg" alt="slide 2" />
+						<img class="model" src="images/slide/2.jpg" alt="slide 2" />
 					</li>
 					<li>
-						<img class="model" src="../images/slide/3.jpg" alt="slide 3" />
+						<img class="model" src="images/slide/3.jpg" alt="slide 3" />
+						<img class="model" src="images/slide/3.jpg" alt="slide 3" />
 					</li>
 				</ul>
 
