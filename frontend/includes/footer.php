@@ -30,6 +30,7 @@ dependency--- add dependency here
         <li><a href="<?php echo $forum;?>">Forum</a></li>
         <li><a href="<?php echo $blog;?>">Blog</a></li>
         <li><a href="status.php">System Status</a></li>
+		<li><a href="<?php echo $support;?>">Support</a></li>
         <li><a href="signup.php">Signup</a></li>
         <li><a href="login">Login</a></li>
       </ul>
@@ -41,7 +42,7 @@ dependency--- add dependency here
           <h6>Address:</h6>
         </div>
         <div class="small-9 column">
-          <p>121 King Street, Melbourne Victoria 3000 Australia</p>
+          <p>121 Lorem Ipsum, Ipsum Lorem 3000 India</p>
         </div>
       </div>
       <div class="row">
