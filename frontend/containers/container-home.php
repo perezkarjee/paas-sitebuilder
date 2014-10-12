@@ -11,7 +11,7 @@
     </div>
     <div class="row features spacy">
       <div class="large-4 column">
-        <h4><i class="icon-cog"></i> Easy Sitebuilder </h4>
+        <h4><i class="icon-cog"></i> Easy To Use</h4>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
       </div>
       <div class="large-4 column">
@@ -19,17 +19,17 @@
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
       </div>
       <div class="large-4 column">
-        <h4><i class="icon-cloud"></i> Constant Backups</h4>
+        <h4><i class="icon-cloud"></i> Fully Cloud Based</h4>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
       </div>
     </div>
     <div class="row features spacy">
       <div class="large-4 column">
-        <h4 class="no-top-margin"><i class="icon-archive"></i> 1-Click Installs</h4>
+        <h4 class="no-top-margin"><i class="icon-dashboard"></i> Fast Loading Websites</h4>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
       </div>
       <div class="large-4 column">
-        <h4 class="no-top-margin"><i class="icon-lock"></i> secure Environment</h4>
+        <h4 class="no-top-margin"><i class="icon-lock"></i> Secure Environment</h4>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
       </div>
       <div class="large-4 column">
