@@ -72,6 +72,9 @@ dependency--- add dependency here
             </div>
           </div>
           <div class="row">
+		  <div class="large-12 column">
+              <input type="submit" name="submit">
+            </div>
             <div class="large-12 column">
               <button>Send Message</button>
             </div>
