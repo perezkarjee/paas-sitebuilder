@@ -1,2 +1,2 @@
 
-<!--section id="main" role="main">
+<section id="main" role="main">
