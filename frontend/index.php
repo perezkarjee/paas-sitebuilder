@@ -23,5 +23,5 @@ include 'containers/container-testimonial.php';
 
 <?php
 //foot
-include 'includes/footer.php';
+include 'includes/footer-.php';
 ?>
