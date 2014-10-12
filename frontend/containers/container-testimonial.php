@@ -80,13 +80,13 @@
 
 						<li>
 
-							<a class="flex-prev pgl" href="#"><i class="icon-chevron-left"></i></a>
+							<a class="flex-prev pgl" href=""><i class="icon-chevron-left"></i></a>
 
 						</li>
 
 						<li>
 
-							<a class="flex-next pgl" href="#"><i class="icon-chevron-right"></i></a>
+							<a class="flex-next pgl" href=""><i class="icon-chevron-right"></i></a>
 
 						</li>
 
