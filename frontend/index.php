@@ -12,7 +12,7 @@ include 'includes/menu.php';
 
 <?php
 //slider
-include 'sliders/slider-home-.php';
+include 'sliders/slider-home.php';
 ?>
 
 <?php
@@ -23,5 +23,5 @@ include 'container-testimonial.php';
 
 <?php
 //foot
-include 'includes/foote-.php';
+include 'includes/footer.php';
 ?>
