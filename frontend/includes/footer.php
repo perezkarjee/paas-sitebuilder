@@ -71,12 +71,11 @@ dependency--- add dependency here
   </div>
   <div class="row">
     <p class="small-12 large-4 large-uncentered column copyright">Copyright &copy; site.</p>
+	<p class="small-12 large-8 column social">
 	<a href="<?php echo $facebook;?>" target="_blank"><i class="icon-facebook"></i></a> 
 	<a href="<?php echo $twitter;?>" target="_blank"><i class="icon-twitter"></i></a> 
 	<a href="<?php echo $googleplus;?>" target="_blank"><i class="icon-google-plus"></i></a> 
-	<a href="<?php echo $youtube;?>" target="_blank"><i class="icon-youtube"></i></a> 
-	<a href="<?php echo $youtube;?>" target="_blank"><i class="icon-youtube"></i></a> 
-	<a href="<?php echo $youtube;?>" target="_blank"><i class="icon-youtube"></i></a> 
+	<a href="<?php echo $youtube;?>" target="_blank"><i class="icon-youtube"></i></a> </p>
   </div>
 </footer>
 <script src="js/vendor/jquery.js"></script>
