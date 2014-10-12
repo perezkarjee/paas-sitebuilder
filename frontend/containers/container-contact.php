@@ -8,6 +8,26 @@ dependency--- add dependency here
 */
 ?>
 
+<script>
+      $(function () {
+
+        $('form').on('submit', function (e) {
+
+          e.preventDefault();
+
+          $.ajax({
+            type: 'post',
+            url: 'post.php',
+            data: $('form').serialize(),
+            success: function () {
+              alert('form was submitted');
+            }
+          });
+
+        });
+
+      });
+    </script>
 
 <section id="main" role="main">
   <div class="breadcrumb-container">
@@ -60,23 +80,6 @@ dependency--- add dependency here
             <div class="large-12 column"><small><em>All fields are required.</em></small></div>
           </div>
         </form>
-		
-		<script type="text/javascript">
-		$('form').on('submit',function(e){
-    e.preventDefault();
-    console.log('Sending request to '+$(this).attr('action')+' with data: '+$(this).serialize());
-    $.ajax({
-        type     : "POST",
-        cache    : false,
-        url      : $(this).attr('action'),
-        data     : $(this).serialize(),
-        success  : function(data) {
-            $(".printArea").empty().append(data).css('visibility','visible');
-        }
-});
-
-});
-		</script>
 		
 		
       </div>
