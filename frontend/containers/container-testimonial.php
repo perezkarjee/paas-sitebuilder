@@ -45,7 +45,7 @@
 
 							<div class="container">
 
-								<h2>What our customer say </h2>
+								<h2 style="font-size:1em;">What our customer say </h2>
 
 								<blockquote class="testi">
 
