@@ -75,7 +75,7 @@
 	<a href="skype:echo123?call" target="_blank"><i class="icon-skype"></i></a></p>
   </div>
 </footer>
-<script src="js/vendor/jquery.js"></script>
+<script src="js/vendor/djquery.js"></script>
 <script src="js/vendor/jquery.magnific-popup.js"></script>
 <script src="js/foundation/foundation.js"></script>
 <script src="js/foundation/foundation.topbar.js"></script>

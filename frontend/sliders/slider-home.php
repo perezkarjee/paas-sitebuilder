@@ -8,6 +8,8 @@
 	<link rel="stylesheet" href="css/font-awesome-ie7.min.css" />
 	<link rel="stylesheet" href="css/slider.css" />
 
+	<script src="js/jquery-1.8.2.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="js/webfont.js"></script>
 	<script type="text/javascript" src="js/jquery.sequence-min.js"></script>
 
