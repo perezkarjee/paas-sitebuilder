@@ -1,8 +1,2 @@
-<?php
-//start
-?>
-<!--section id="main" role="main">
 
-<?php
-//end
-?>
+<!--section id="main" role="main">
