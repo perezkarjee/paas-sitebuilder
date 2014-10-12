@@ -45,11 +45,11 @@
 
 							<div class="container">
 
-								<h2 class="testi-2">What our customer say </h2>
+								<h2>What our customer say </h2>
 
 								<blockquote class="testi">
 
-									<p class="testi-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque faucibus risus non iaculis. Fusce a augue ante, pellentesque pretium erat. Fusce in turpis in velit tempor pretium. Integer a leo libero.</p>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque faucibus risus non iaculis. Fusce a augue ante, pellentesque pretium erat. Fusce in turpis in velit tempor pretium. Integer a leo libero.</p>
 
 								</blockquote>
 
