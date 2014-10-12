@@ -1,7 +1,7 @@
 <?php
 //start
 ?>
-
+<head>
 
 <link rel="stylesheet" href="css/slide.css" />
 <link rel="stylesheet" href="css/bootstrap.css" />
@@ -15,7 +15,7 @@
 	<script type="text/javascript" src="js/webfont.js"></script>
 	<script type="text/javascript" src="js/jquery.sequence-min.js"></script>
 
-
+</head>
 <script type="text/javascript"> 
 	    $(document).ready(function(){
 		    var options = {
