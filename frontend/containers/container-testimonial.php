@@ -11,7 +11,6 @@
 	<link rel="stylesheet" href="css/testimonial.css" />
 	
 	<script type="text/javascript" src="js/jquery-1.8.2.min.js"></script>
-	<script type="text/javascript" src="js/jquery-1.8.2.min.js"></script>
 	<script type="text/javascript" src="js/webfont.js"></script>
 	<script type="text/javascript" src="js/jquery.sequence-min.js"></script>
 	<script type="text/javascript" src="js/jquery.flexslider-min.js"></script>
