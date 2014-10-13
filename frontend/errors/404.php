@@ -7,11 +7,12 @@ but the second time when user visits- $link/$errorlink/$errorlink or $link/$erro
 the static content will break because it will assume that its inside the directory when it's not there
 */
 $host = gethostname();
-$imagedir = '/cache/frontend/images/error.jpg';
+$imagedir = '/cache/frontend/css/error.jpg';
 $cssdir = '/cache/frontend/css/image.jpg';
+$http = 'http://';
 
-$errorimage = $host.$imagedir ;
-$errorcss = $host.$cssdir ;
+$errorimage = $http.$host.$imagedir ;
+$errorcss = $http.$host.$cssdir ;
 
 /*
 you could just point the css & image to an external link, but since we do not want any external dependencies here
@@ -30,7 +31,7 @@ so we just get the server's hostname and point it to the static content properly
 <title>Error</title>
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="http://<?php echo $errorcss;?>">
+<link rel="stylesheet" href="<?php echo $errorcss;?>">
 </head>
 <body>
 <section id="main" role="main">
@@ -45,7 +46,7 @@ so we just get the server's hostname and point it to the static content properly
 <br>
         <h1 class="no-bottom-margin">Oops...</h1>
         <h4>The page you're looking for doesn't exist.</h4>
-		<img src="http://<?php echo $errorimage;?>" width="70%">
+		<img src="<?php echo $errorimage;?>" width="70%">
 <br>
 <br>
 <br>
