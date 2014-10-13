@@ -3,7 +3,7 @@
 $image_css_link = gethostname();
 echo $image_css_link;
 
-$errorimage = gh;
+$errorimage = $image_css_link + 'images/error.jpg';
 $errorcss =fg;
 ?>
 <!DOCTYPE html>
