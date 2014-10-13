@@ -32,7 +32,7 @@ dependency--- add dependency here
         <li><a href="status.php">System Status</a></li>
 		<li><a href="<?php echo $support;?>">Support</a></li>
         <li><a href="signup.php">Signup</a></li>
-        <li><a href="login">Login</a></li>
+        <li><a href="<?php echo $login;?>">Login</a></li>
       </ul>
     </div>
     <div class="large-4 column">
