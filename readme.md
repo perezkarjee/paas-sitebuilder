@@ -14,5 +14,6 @@ paas-sitebuilder
 
 **APIs that will be used**
 - APIFor storing external files for customers- AWS S3 API http://docs.aws.amazon.com/aws-sdk-php/latest/class-Aws.S3.S3Client.html
-- paypal API for payment processing- https://developer.paypal.com/
-- 
+
+
+- paypal API for payment processing- https://developer.paypal.com
