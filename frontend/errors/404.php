@@ -30,7 +30,7 @@ so we just get the server's hostname and point it to the static content properly
 <title>Error</title>
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="<?php echo $errorcss;?>">
+<link rel="stylesheet" href="http://<?php echo $errorcss;?>">
 </head>
 <body>
 <section id="main" role="main">
@@ -45,7 +45,7 @@ so we just get the server's hostname and point it to the static content properly
 <br>
         <h1 class="no-bottom-margin">Oops...</h1>
         <h4>The page you're looking for doesn't exist.</h4>
-		<img src="<?php echo $errorimage;?>" width="70%">
+		<img src="http://<?php echo $errorimage;?>" width="70%">
 <br>
 <br>
 <br>
