@@ -23,5 +23,8 @@ paas-sitebuilder
 
 **Architecture Notes**
 - the static content files such as images,videos, etc uploaded by customers will be stored on AWS S3
-- the actual contents such as templates/styles/pages/etc will be stored on the database, no changes will be made by customers to the application servers(by this i mean the app servers will be read-only and all the content changes will be made on the database servers)
-- 
+ 
+- the actual contents such as templates/styles/pages/etc will be stored on the database, no changes will be made by
+ customers to the application servers(by this i mean the app servers will be read-only and all the content changes will be made on the database servers)
+
+- a 
