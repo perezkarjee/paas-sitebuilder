@@ -1,16 +1,23 @@
 <?php
 
-$image_css_link = gethostname();
-echo $image_css_link;
-$imagedir = '/images/error.jpg';
-$cssdir = '/css/image.jpg';
+/*
+this is required so that the static content(css,image) doesn't break
+because if you point them(css,image) directly- when a users vists $link/$errorlink it will not break
+but the second time when user visits- $link/$errorlink/$errorlink or $link/$errorlink/$errorlink/$errorlink/...
+the static content will break because it will assume that its inside the directory when it's not there
+*/
+$host = gethostname();
+$imagedir = 'cache/frontend/images/error.jpg';
+$cssdir = 'cache/frontend/css/image.jpg';
 
-echo $image;
-echo $css;
-echo '<br>';
-$errorimage = $image_css_link.$imagedir ;
-echo $errorimage;
-$errorcss =fg;
+$errorimage = $host.$imagedir ;
+$errorcss = $ihost.$cssdir ;
+
+/*
+you could just point the css & image to an external link, but since we do not want any external dependencies here
+so we just get the server's hostname and point it to the static content properly
+*/
+
 ?>
 <!DOCTYPE html>
 <!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
