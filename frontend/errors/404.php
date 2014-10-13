@@ -2,12 +2,14 @@
 
 $image_css_link = gethostname();
 echo $image_css_link;
-$image = 'images/error.jpg';
-$css = 'css/image.jpg';
+$imagedir = '/images/error.jpg';
+$cssdir = '/css/image.jpg';
 
 echo $image;
 echo $css;
-$errorimage = $image_css_link + 'images/error.jpg';
+echo <br>;
+$errorimage = $image_css_link + $imagedir ;
+echo $errorimage;
 $errorcss =fg;
 ?>
 <!DOCTYPE html>
