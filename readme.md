@@ -19,8 +19,7 @@ paas-sitebuilder
 - paypal API for payment processing- https://developer.paypal.com
 
 - cloudflare API for DNS & routing https://www.cloudflare.com/docs/client-api.html
-
-- Mails will be delivered by sendgrid & mandrill
+- 
 
 
 **Architecture Notes**
@@ -30,6 +29,8 @@ paas-sitebuilder
  customers to the application servers(by this i mean the app servers will be read-only and all the content changes will be made on the database servers)
 
 - the DNS will be handled by cloudflare
+
+- Mails will be delivered by sendgrid & mandrill
 
 
 **how the pages will be served to the visitor**
