@@ -32,7 +32,7 @@ paas-sitebuilder
 - the DNS will be handled by cloudflare
 
 
-**how the page will be served to the visitor**
+**how the pages will be served to the visitor**
 
  ```>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  ```
 
