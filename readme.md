@@ -27,4 +27,10 @@ paas-sitebuilder
 - the actual contents such as templates/styles/pages/etc will be stored on the database, no changes will be made by
  customers to the application servers(by this i mean the app servers will be read-only and all the content changes will be made on the database servers)
 
-- a 
+- the DNS will be handled by cloudflare
+
+
+- how the page will be served to the visitor
+
+abc.site.com -> cloudflare DNS -> Load Balancer -> App Server -> Database(check for requested url 'abc.site.com') ->
+                                   Visitor <- App server (generate HTML page) <- get stored codes [[if found]]
