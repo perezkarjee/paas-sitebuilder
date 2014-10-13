@@ -30,7 +30,16 @@ paas-sitebuilder
 - the DNS will be handled by cloudflare
 
 
-- how the page will be served to the visitor
+**how the page will be served to the visitor**
 
-abc.site.com -> cloudflare DNS -> Load Balancer -> App Server -> Database(check for requested url 'abc.site.com') ->
-                                   Visitor <- App server (generate HTML page) <- get stored codes [[if found]]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+  visitor >> abc.site.com >> cloudflare DNS >> Load Balancer >> 
+  
+ <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+ Database(check for requested url 'abc.site.com') << App Server <<
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ >> [[if found]] get stored codes >> App server (generate HTML page) >> Visitor
