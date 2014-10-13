@@ -20,6 +20,8 @@ paas-sitebuilder
 
 - cloudflare API for DNS & routing https://www.cloudflare.com/docs/client-api.html
 
+- Mails will be delivered by sendgrid & mandrill
+
 
 **Architecture Notes**
 - the static content files such as images,videos, etc uploaded by customers will be stored on AWS S3
