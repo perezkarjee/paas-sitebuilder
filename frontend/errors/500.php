@@ -8,8 +8,8 @@ the static content will break because it will assume that its inside the directo
 */
 $http = 'http://';
 $host = gethostname();
-$imagedir = '/cache/frontend/images/error.jpg';
-$cssdir = '/cache/frontend/css/main.css';
+$imagedir = '/images/error.jpg';
+$cssdir = '/css/main.css';
 
 $errorimage = $http.$host.$imagedir ;
 $errorcss = $http.$host.$cssdir ;
