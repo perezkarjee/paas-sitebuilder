@@ -4,45 +4,85 @@
 
 
 <section id="main" role="main">
+  <div class="breadcrumb-container">
+    <div class="row">
+      <div class="large-12 column">
+        <nav class="breadcrumbs animated bounceInDown"><a href="index-2.html">Home</a> <a class="current" href="#">About Us</a></nav>
+      </div>
+    </div>
+  </div>
   <section class="part">
     <div class="row title">
       <div class="large-12 column">
-        <h6>What we offer</h6>
-      </div>
-    </div>
-    <div class="row features spacy">
-      <div class="large-4 column">
-        <h4><i class="icon-cog"></i> Powerful cPanel</h4>
-        <p>Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits.</p>
-      </div>
-      <div class="large-4 column">
-        <h4><i class="icon-time"></i> 99.99% Uptime</h4>
-        <p>Efficiently unleash cross-media information without cross-media value. Quickly maximize timely deliverables for real-time schemas.</p>
-      </div>
-      <div class="large-4 column">
-        <h4><i class="icon-cloud"></i> Constant Backups</h4>
-        <p>Completely synergize resource sucking relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas.</p>
-      </div>
-    </div>
-    <div class="row features spacy">
-      <div class="large-4 column">
-        <h4 class="no-top-margin"><i class="icon-archive"></i> 1-Click Installs</h4>
-        <p>Objectively innovate empowered manufactured products whereas parallel platforms. Holisticly predominate extensible testing procedures for reliable supply chains.</p>
-      </div>
-      <div class="large-4 column">
-        <h4 class="no-top-margin"><i class="icon-lock"></i> Online security</h4>
-        <p>Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing.</p>
-      </div>
-      <div class="large-4 column">
-        <h4 class="no-top-margin"><i class="icon-comments"></i> 24/7 Support</h4>
-        <p>Phosfluorescently engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric "outside the box" thinking.</p>
+        <h2>Terms & Conditions</h2>
       </div>
     </div>
     <div class="row">
-      <div class="large-12 column text-center"><a href="features.html" class="button">View Full Features List</a></div>
+      <div class="large-12 column">
+        <p>Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla non metus auctor fringilla. Donec ullamcorper nulla non metus auctor fringilla. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Curabitur blandit tempus porttitor. Vestibulum id ligula porta felis euismod semper.</p>
+        <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod semper. Maecenas sed diam eget risus varius blandit sit amet non magna. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</p>
+        <img src="images/demo/about.jpg" alt=""></div>
+    </div>
+  </section>
+  
+  <section class="part">
+    <div class="row title">
+      <div class="large-12 column">
+        <h4>Acceptable Usage Policy</h4>
+      </div>
+    </div>
+    <div class="row">
+      <div class="large-12 column">
+        <p>Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla non metus auctor fringilla. Donec ullamcorper nulla non metus auctor fringilla. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Curabitur blandit tempus porttitor. Vestibulum id ligula porta felis euismod semper.</p>
+        <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod semper. Maecenas sed diam eget risus varius blandit sit amet non magna. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</p>
+        <img src="images/demo/about.jpg" alt=""></div>
+    </div>
+  </section>
+  
+  
+  <section class="part">
+    <div class="row title">
+      <div class="large-12 column">
+        <h4>Privacy Policy</h4>
+      </div>
+    </div>
+    <div class="row">
+      <div class="large-12 column">
+        <p>Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla non metus auctor fringilla. Donec ullamcorper nulla non metus auctor fringilla. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Curabitur blandit tempus porttitor. Vestibulum id ligula porta felis euismod semper.</p>
+        <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod semper. Maecenas sed diam eget risus varius blandit sit amet non magna. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</p>
+        <img src="images/demo/about.jpg" alt=""></div>
+    </div>
+  </section>
+  
+   <section class="part">
+    <div class="row title">
+      <div class="large-12 column">
+        <h4>Billing, Payments & Returns</h4>
+      </div>
+    </div>
+    <div class="row">
+      <div class="large-12 column">
+        <p>Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla non metus auctor fringilla. Donec ullamcorper nulla non metus auctor fringilla. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Curabitur blandit tempus porttitor. Vestibulum id ligula porta felis euismod semper.</p>
+        <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod semper. Maecenas sed diam eget risus varius blandit sit amet non magna. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</p>
+        <img src="images/demo/about.jpg" alt=""></div>
+    </div>
+  </section>
+  
+  <section class="part">
+    <div class="row title">
+      <div class="large-12 column">
+        <h4>Acceptance/Agreement, Violation And Changes To Our Terms & Conditions</h4>
+      </div>
+    </div>
+    <div class="row">
+      <div class="large-12 column">
+        <p>Nullam id dolor id nibh ultricies vehicula ut id elit. Donec ullamcorper nulla non metus auctor fringilla. Donec ullamcorper nulla non metus auctor fringilla. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Curabitur blandit tempus porttitor. Vestibulum id ligula porta felis euismod semper.</p>
+        <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod semper. Maecenas sed diam eget risus varius blandit sit amet non magna. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</p>
+        <img src="images/demo/about.jpg" alt=""></div>
     </div>
   </section>
 </section>
+
 <a id="back-top" href="#"><i class="icon-caret-up"></i></a>
 
 <?php
