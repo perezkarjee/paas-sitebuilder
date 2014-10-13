@@ -37,8 +37,19 @@
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
       </div>
     </div>
-    <div class="row">
-      <div class="large-12 column text-center"><a href="features.php" class="button">View Full Features List</a></div>
+	<div class="row features spacy">
+      <div class="large-4 column">
+        <h4 class="no-top-margin"><i class="icon-dashboard"></i> Features</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
+      </div>
+      <div class="large-4 column">
+        <h4 class="no-top-margin"><i class="icon-lock"></i> Features</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
+      </div>
+      <div class="large-4 column">
+        <h4 class="no-top-margin"><i class="icon-comments"></i> Features</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
+      </div>
     </div>
   </section>
   </section>
