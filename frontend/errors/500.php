@@ -45,7 +45,7 @@ so we just get the server's hostname and point it to the static content properly
 <br>
 <br>
         <h1 class="no-bottom-margin">Oops...</h1>
-        <h4>The page you're looking for doesn't exist.</h4>
+        <h4>Internal Server Error</h4>
 		<img src="<?php echo $errorimage;?>" width="70%">
 <br>
 <br>
