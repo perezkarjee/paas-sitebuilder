@@ -1,5 +1,10 @@
 <?php
 //menu start
+/*
+dependency--- includes/external-links.php
+dependency--- add dependency here
+*/
+
 ?>
 
 <body>
@@ -18,7 +23,7 @@
 			<li><a href="features.php">FEATURES</a></li>
             <li><a href="about.php">ABOUT</a></li>
             <li><a href="contact.php">CONTACT</a></li>
-            <li><a href="login.php">LOG IN</a></li>
+            <li><a href="<?php echo $loginurl;?>">LOG IN</a></li>
             <li id="signup"><a href="signup.php" class="button no-margin">SIGN UP</a></li>
           </ul>
         </section>
