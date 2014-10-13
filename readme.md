@@ -19,7 +19,6 @@ paas-sitebuilder
 - paypal API for payment processing- https://developer.paypal.com
 
 - cloudflare API for DNS & routing https://www.cloudflare.com/docs/client-api.html
-- 
 
 
 **Architecture Notes**
