@@ -8,7 +8,7 @@ $cssdir = '/css/image.jpg';
 echo $image;
 echo $css;
 echo '<br>';
-$errorimage = $image_css_link + $imagedir ;
+$errorimage = $image_css_link.$imagedir ;
 echo $errorimage;
 $errorcss =fg;
 ?>
