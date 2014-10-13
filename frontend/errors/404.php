@@ -2,7 +2,11 @@
 
 $image_css_link = gethostname();
 echo $image_css_link;
+$image = 'images/error.jpg';
+$css = 'css/image.jpg';
 
+echo $image;
+echo $css;
 $errorimage = $image_css_link + 'images/error.jpg';
 $errorcss =fg;
 ?>
