@@ -32,14 +32,14 @@ paas-sitebuilder
 
 **how the page will be served to the visitor**
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ ```>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  ```
 
   visitor >> abc.site.com >> cloudflare DNS >> Load Balancer >> 
   
- <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+  ```<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  ```
 
- Database(check for requested url 'abc.site.com') << App Server <<
+  Database(check for requested url 'abc.site.com') << App Server <<
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ ``` >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  ```
 
  >> [[if found]] get stored codes >> App server (generate HTML page) >> Visitor
