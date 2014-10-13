@@ -11,7 +11,7 @@ $imagedir = '/cache/frontend/images/error.jpg';
 $cssdir = '/cache/frontend/css/image.jpg';
 
 $errorimage = $host.$imagedir ;
-$errorcss = $ihost.$cssdir ;
+$errorcss = $host.$cssdir ;
 
 /*
 you could just point the css & image to an external link, but since we do not want any external dependencies here
@@ -59,3 +59,7 @@ so we just get the server's hostname and point it to the static content properly
 </section>
 </body>
 </html>
+
+<?php
+//end
+?>
