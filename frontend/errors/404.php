@@ -3,8 +3,8 @@
 $image_css_link = gethostname();
 echo $image_css_link;
 
-$errorimage =
-$errorcss =
+$errorimage = gh;
+$errorcss =fg;
 ?>
 <!DOCTYPE html>
 <!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
