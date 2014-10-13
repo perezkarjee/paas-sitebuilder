@@ -7,7 +7,7 @@ but the second time when user visits- $link/$errorlink/$errorlink or $link/$erro
 the static content will break because it will assume that its inside the directory when it's not there
 */
 $host = gethostname();
-$imagedir = '/cache/frontend/css/error.jpg';
+$imagedir = '/cache/frontend/image/error.jpg';
 $cssdir = '/cache/frontend/css/image.jpg';
 $http = 'http://';
 
