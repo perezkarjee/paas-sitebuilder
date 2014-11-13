@@ -26,7 +26,7 @@ dependency--- add dependency here
     <div class="row">
       <div class="large-7 column">
         <p>If you're having trouble, the first place to look for help is on our <a href="<?php echo $support;?>">support</a> page. If you still need our help, please fill the form below:</p>
-        <form action="../contact-form-process.php" method="post">
+        <form action="contact-form-process.php" method="post">
           <div class="row">
             <div class="large-8 column">
               <label>Full Name:</label>
