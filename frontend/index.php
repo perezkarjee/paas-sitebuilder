@@ -15,19 +15,20 @@ dependency--- add dependency here
 <?php
 //head
 $title = 'Home';
-include 'includes/external-links.php';
+require_once 'includes/external-links.php';
+require_once 'includes/config.php';
 include 'includes/header.php';
 include 'includes/menu.php';
 ?>
 
 <?php
 //slider
-include 'sliders/home.php';
+include 'views/sliders/home.php';
 ?>
 
 <?php
 //container
-include 'containers/container-home.php';
+include 'views/containers/container-home.php';
 ?>
 
 <?php

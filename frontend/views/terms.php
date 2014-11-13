@@ -14,9 +14,10 @@ dependency--- add dependency here
 <?php
 //head
 $title = 'Terms';
-include 'includes/external-links.php';
-include 'includes/header.php';
-include 'includes/menu.php';
+require_once '../includes/config.php';
+require_once '../includes/external-links.php';
+include '../includes/header.php';
+include '../includes/menu.php';
 ?>
 
 <?php
@@ -26,5 +27,5 @@ include 'containers/container-terms.php';
 
 <?php
 //foot
-include 'includes/footer.php';
+include '../includes/footer.php';
 ?>

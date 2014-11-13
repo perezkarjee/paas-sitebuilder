@@ -38,7 +38,7 @@
       </div>
     </div>
     <div class="row">
-      <div class="large-12 column text-center"><a href="features.php" class="button">View Full Features List</a></div>
+      <div class="large-12 column text-center"><a href="<?php echo $site_url; ?>/views/features.php" class="button">View Full Features List</a></div>
     </div>
   </section>
   <section class="part">
@@ -61,7 +61,7 @@
               <li class="bullet-item"><strong>Fully</strong> Customizable</li>
               <li class="bullet-item"><strong>Shopping Cart</strong> No</li>
               <li class="bullet-item">Free Support</li>
-              <li class="cta-button"><a class="button" href="signup.php">Sign Up</a></li>
+              <li class="cta-button"><a class="button" href="<?php echo $site_url; ?>/views/signup.php">Sign Up</a></li>
             </ul>
           </div>
           <div class="large-4 column">
@@ -75,7 +75,7 @@
               <li class="bullet-item"><strong>Fully</strong> Customizable</li>
               <li class="bullet-item"><strong>Shopping Cart</strong> No</li>
               <li class="bullet-item">Free Support</li>
-              <li class="cta-button"><a class="button" href="signup.php">Sign Up</a></li>
+              <li class="cta-button"><a class="button" href="<?php echo $site_url; ?>/views/signup.php">Sign Up</a></li>
             </ul>
           </div>
           <div class="large-4 column">
@@ -89,7 +89,7 @@
               <li class="bullet-item"><strong>Fully</strong> Customizable</li>
               <li class="bullet-item"><strong>Shopping Cart</strong> Yes</li>
               <li class="bullet-item">Free Support</li>
-              <li class="cta-button"><a class="button" href="signup.php">Sign Up</a></li>
+              <li class="cta-button"><a class="button" href="<?php echo $site_url; ?>/views/signup.php">Sign Up</a></li>
             </ul>
           </div>
       </div>
